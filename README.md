@@ -37,13 +37,3 @@ Example:
 ```
 python predict_all_models.py -i day_night_dataset/val/night/pexels-photo-2403202.jpeg
 ```
-
-#### Sample Results
-These sample results are generated using the [predict_all_models.py](https://github.com/jayeshsaita/Day-Night-Classifier/blob/master/predict_all_models.py) file.
-
-![result1.png](result1.png)
-![result2.png](result2.png)
-![result5.png](result5.png)
-![result4.png](result4.png)
-![result6.png](result6.png)
-![result3.png](result3.png)
